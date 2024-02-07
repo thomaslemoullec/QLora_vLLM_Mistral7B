@@ -1,0 +1,6 @@
+{
+    "description": "Template used by Mistral AI 7B model.",
+    "prompt_input": "Below is an instruction that describes a question. Write a response that appropriately answer the request.\n\n### Instruction:\n{input_text}\n\n### Response:\n{output_text}",
+    "prompt_no_input": "Below is an instruction that describes a question. Write a response that appropriately answer the request.\n\n### Instruction:\n{input_text}\n\n### Response:\n{output_text}",
+    "response_split": "### Response:"
+}
